@@ -2,7 +2,8 @@
 
 # 🌉 SkillBridge - Adaptive Digital Empowerment Platform
 
-![SkillBridge Banner](https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&dpr=2)
+<img width="1365" height="626" alt="image" src="https://github.com/user-attachments/assets/b46fe0ac-fa48-471c-889a-64e7f468a65f" />
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://beautiful-salamander-899eb7.netlify.app)
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
@@ -14,22 +15,31 @@
 
 **SkillBridge** is a revolutionary adaptive digital learning platform that bridges the gap between skill development and real-world career opportunities. Developed by a passionate team of five undergraduate students from **C.V. Raman Global University, Bhubaneswar**, this platform was initially created for the **Infosys Hackathon** but has evolved into a comprehensive learning ecosystem.
 
+It is built as a modern, adaptive digital learning platform that prioritizes user experience, accessibility, and visual appeal. The design philosophy centers around creating an intuitive, engaging, and professional interface that makes learning feel exciting rather than overwhelming.
+
 ### 🌟 Our Vision
 We envision a world where learning is adaptive, engaging, and directly connected to career success. SkillBridge transforms traditional education by providing personalized learning experiences powered by artificial intelligence.
 
 ---
 
-## 🚀 Live Demo
+<h2 align="center" style="font-size: 32px;">🚀 Live Demo</h2>
 
-**🔗 [Visit SkillBridge Platform](https://beautiful-salamander-899eb7.netlify.app)**
+<p align="center">
+  <a href="https://beautiful-salamander-899eb7.netlify.app" target="_blank" style="text-decoration: none;">
+    <button style="font-size: 18px; padding: 12px 24px; background-color: #4CAF50; color: white; border: none; border-radius: 8px; cursor: pointer;">
+      🔗 Visit SkillBridge Platform
+    </button>
+  </a>
+</p>
 
-### 🎮 Interactive Features
-- **🤖 [AI Assistant](https://spiffy-semolina-dc9ddb.netlify.app/)** - Personal learning companion
-- **🎯 [GameLearn Hub](https://stirring-banoffee-8d1f8e.netlify.app/)** - Educational games and challenges
-- **🌍 [TechGlobe](https://candid-buttercream-e156f3.netlify.app/)** - Global technology insights
-- **🗺️ [Career Roadmap](https://ubiquitous-queijadas-0ac6ce.netlify.app/)** - Structured learning paths
+<h3>🎮 Interactive Features</h3>
 
----
+- <a href="https://spiffy-semolina-dc9ddb.netlify.app/" target="_blank"><strong>🤖 AI Assistant</strong></a> – Personal learning companion  
+- <a href="https://stirring-banoffee-8d1f8e.netlify.app/" target="_blank"><strong>🎯 GameLearn Hub</strong></a> – Educational games and challenges  
+- <a href="https://candid-buttercream-e156f3.netlify.app/" target="_blank"><strong>🌍 TechGlobe</strong></a> – Global technology insights  
+- <a href="https://ubiquitous-queijadas-0ac6ce.netlify.app/" target="_blank"><strong>🗺️ Career Roadmap</strong></a> – Structured learning paths
+
+-------
 
 ## 🎨 Our Design Philosophy
 
