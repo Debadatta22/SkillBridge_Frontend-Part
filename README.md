@@ -95,6 +95,12 @@ interface LearningPath {
 - **Developer Experience**: Excellent tooling and debugging capabilities
 - **Industry Standard**: High demand in job market and extensive community support
 
+  <img width="1680" height="1368" alt="SkillBridge Platform - Complete Project Overview - visual selection (18)" src="https://github.com/user-attachments/assets/9bdcb282-9297-48b0-8de7-031c52ad7e19" />
+
+  <img width="1368" height="1438" alt="SkillBridge Platform - Complete Project Overview - visual selection (20)" src="https://github.com/user-attachments/assets/b96dd80a-18bd-4608-bced-1cfae1115b11" />
+
+
+
 #### **Tailwind CSS**
 ```html
 <!-- Our utility-first approach -->
@@ -106,6 +112,30 @@ interface LearningPath {
 - **Consistent Design**: Built-in design system prevents inconsistencies
 - **Performance**: Purged CSS results in smaller bundle sizes
 - **Responsive Design**: Mobile-first approach with intuitive breakpoints
+
+  <img width="1248" height="1584" alt="SkillBridge Platform - Complete Project Overview - visual selection (21)" src="https://github.com/user-attachments/assets/6d6f7815-969f-490e-8459-246229ef78fe" />
+
+
+## 🎨 Design System & Visual Architecture
+### **Color Palette Strategy**
+```typescript
+const colorPalette = {
+  gradients: {
+    brand:      "from-blue-600 to-purple-600",     // Main brand gradient
+    success:    "from-green-500 to-emerald-500",   // Success / positive actions
+    alert:      "from-orange-500 to-red-500",      // Attention / important
+    creative:   "from-purple-500 to-pink-500"      // Creative / innovative
+  },
+  semantic: {
+    primaryText:   "text-gray-900 dark:text-white",       // Primary text
+    secondaryText: "text-gray-600 dark:text-gray-300",    // Secondary text
+    background:    "bg-gray-50 dark:bg-gray-900"          // Background layers
+  }
+};
+```
+
+
+
 
 #### **Framer Motion**
 ```typescript
