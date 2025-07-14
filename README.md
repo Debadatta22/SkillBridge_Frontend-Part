@@ -135,6 +135,54 @@ const colorPalette = {
 ```
 
 
+### **Color Psychology Applied: **
+- Blue: Trust, professionalism, learning
+- Purple: Innovation, creativity, premium feel
+- Green: Growth, success, positive feedback
+- Orange/Red: Energy, urgency, call-to-action
+
+### Typography Hierarchy
+
+```typescript
+/* Heading Scales */
+text-4xl md:text-5xl font-bold  /* Hero headings */
+text-3xl font-bold              /* Section headings */
+text-xl font-semibold           /* Subsection headings */
+text-sm font-medium             /* Labels and buttons */
+
+/* Font Weights */
+font-bold     /* 700 - Headlines */
+font-semibold /* 600 - Subheadings */
+font-medium   /* 500 - Buttons, labels */
+font-normal   /* 400 - Body text */
+
+
+```
+
+### 🎭 Animation System with Framer Motion
+
+- Why Framer Motion over other animation libraries?
+- vs CSS Animations: More control, JavaScript-driven logic
+- vs React Spring: Better TypeScript support, simpler API
+- vs GSAP: Better React integration, declarative syntax
+
+### Animation Patterns Used
+1. Page Entrance Animations
+``` typescript
+   const fadeInUp = {
+  initial: { opacity: 0, y: 20 },
+  animate: { opacity: 1, y: 0 },
+  transition: { duration: 0.6 }
+};
+
+const staggerChildren = {
+  animate: {
+    transition: {
+      staggerChildren: 0.1  // Each child animates 0.1s after previous
+    }
+  }
+};
+```
 
 
 #### **Framer Motion**
