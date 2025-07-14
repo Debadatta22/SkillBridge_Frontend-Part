@@ -5,11 +5,19 @@
 <img width="1365" height="626" alt="image" src="https://github.com/user-attachments/assets/b46fe0ac-fa48-471c-889a-64e7f468a65f" />
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://beautiful-salamander-899eb7.netlify.app)
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC.svg)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.23.0-ff69b4.svg)](https://www.framer.com/motion/)
+
+-----------
+
+## Explore these -
+
+- 🔗 [SkillBridge_TechGlobe](https://github.com/Debadatta22/SkillBridge_TechGlobe.git)
+- 🔗 [SkillBridge_Gamified-Learning-Platform](https://github.com/Debadatta22/SkillBridge_Gamified-Learning-Platform.git)
+- 🔗 [SkillBridge_Career_companion](https://github.com/Debadatta22/SkillBridge_Career_companion.git)
+
 
 ## 🎯 Project Overview
 
