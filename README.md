@@ -167,9 +167,10 @@ font-normal   /* 400 - Body text */
 - vs GSAP: Better React integration, declarative syntax
 
 ### Animation Patterns Used
-1. Page Entrance Animations
+#### **Framer Motion**
+**1. Page Entrance Animations**
 ``` typescript
-   const fadeInUp = {
+const fadeInUp = {
   initial: { opacity: 0, y: 20 },
   animate: { opacity: 1, y: 0 },
   transition: { duration: 0.6 }
@@ -183,16 +184,35 @@ const staggerChildren = {
   }
 };
 ```
-
-
-#### **Framer Motion**
+**2. Interactive Button Animations**
 ```typescript
-const fadeInUp = {
-  initial: { opacity: 0, y: 20 },
-  animate: { opacity: 1, y: 0 },
-  transition: { duration: 0.6 }
-};
+<motion.button
+  whileHover={{ scale: 1.05 }}      // Subtle grow on hover
+  whileTap={{ scale: 0.95 }}        // Slight shrink on click
+  className="bg-gradient-to-r from-blue-600 to-purple-600"
+>
+
 ```
+**3. Background Animations**
+```typescript
+// Floating particles effect
+{[...Array(6)].map((_, i) => (
+  <motion.div
+    animate={{
+      x: [0, 100, 0],
+      y: [0, -50, 0],
+      opacity: [0, 1, 0],
+    }}
+    transition={{
+      duration: 2,
+      repeat: Infinity,
+      delay: i * 0.3,
+    }}
+  />
+))}
+
+```
+
 
 **Our Reasoning:**
 - **Declarative Animations**: Easy to understand and maintain
