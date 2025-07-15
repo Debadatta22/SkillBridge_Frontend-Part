@@ -12,7 +12,7 @@
 
 -----------
 
-## Explore these -
+## Explore these Github Reps-
 
 - 🔗 [SkillBridge_TechGlobe](https://github.com/Debadatta22/SkillBridge_TechGlobe.git)
 - 🔗 [SkillBridge_Gamified-Learning-Platform](https://github.com/Debadatta22/SkillBridge_Gamified-Learning-Platform.git)
