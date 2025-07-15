@@ -19,6 +19,10 @@
 - 🔗 [SkillBridge_Career_companion](https://github.com/Debadatta22/SkillBridge_Career_companion.git)
 - 🔗 [SkillBridge_AI Assistant](https://github.com/Debadatta22/SkillBridge_AI-Assistant.git)
 
+## Download the files from here -
+### 🔗 [SkillBridge_Files](  https://drive.google.com/drive/folders/1-eHz2SIzBfF8aAMWJSFmYsNt5y9tiAs3?usp=sharing)
+
+
 
 ## 🎯 Project Overview
 
