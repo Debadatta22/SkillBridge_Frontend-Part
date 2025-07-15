@@ -17,7 +17,7 @@
 - 🔗 [SkillBridge_TechGlobe](https://github.com/Debadatta22/SkillBridge_TechGlobe.git)
 - 🔗 [SkillBridge_Gamified-Learning-Platform](https://github.com/Debadatta22/SkillBridge_Gamified-Learning-Platform.git)
 - 🔗 [SkillBridge_Career_companion](https://github.com/Debadatta22/SkillBridge_Career_companion.git)
-- adding AI assitant soon!...
+- 🔗 [SkillBridge_AI Assistant](https://github.com/Debadatta22/SkillBridge_AI-Assistant.git)
 
 
 ## 🎯 Project Overview
