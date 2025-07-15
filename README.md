@@ -4,6 +4,18 @@
 
 <img width="1365" height="626" alt="image" src="https://github.com/user-attachments/assets/b46fe0ac-fa48-471c-889a-64e7f468a65f" />
 
+<h2 align="center" style="font-size: 32px;">🚀 Live Demo</h2>
+
+<p align="center">
+  <a href="https://beautiful-salamander-899eb7.netlify.app" target="_blank" style="text-decoration: none;">
+    <button style="font-size: 18px; padding: 12px 24px; background-color: #4CAF50; color: white; border: none; border-radius: 8px; cursor: pointer;">
+      🔗 Visit SkillBridge Platform
+    </button>
+  </a>
+</p>
+
+<h3>🎮 Interactive Features</h3>
+
 
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
